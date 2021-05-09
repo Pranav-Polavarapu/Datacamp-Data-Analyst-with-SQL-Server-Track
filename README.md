@@ -1,4 +1,4 @@
-# Datacamp-Data-Analyst-with-SQL-Server-Track****
+# Datacamp-Data-Analyst-with-SQL-Server-Track
 
 Thank you for viewing this repository.
 
